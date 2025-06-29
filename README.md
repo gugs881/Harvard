@@ -1,4 +1,4 @@
-Harvard CS50x — Final Project: Intelligent Income Tax Calculator
+# Harvard CS50x — Final Project: Intelligent Income Tax Calculator
 
 🧠 Intelligent Income Tax Calculator
 
